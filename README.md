@@ -2,6 +2,8 @@
 - 👀 I’m interested in Angular, ReactJs, NestJs, ASP.NET...
 - 🌱 I’m currently learning the new technologies
 - 💞️ I’m looking to collaborate on Angular, ReactJs, NestJs, ASP.NET...In French or in In France or in the world
+- 📫 How to reach me: isow6227@gmail.com
+
 - 📫 How to reach me ...
 
 <!---
