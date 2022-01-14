@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Angular, ReactJs, NestJs, ASP.NET...In French or in In France or in the world
 - 📫 How to reach me: isow6227@gmail.com
 
-- 📫 How to reach me ...
 
 <!---
 ibraweb/ibraweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
